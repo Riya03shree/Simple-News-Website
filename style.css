@@ -1,0 +1,14 @@
+.np {
+    text-align: center;
+}
+
+.headings {
+    color: rgb(65, 0, 144);
+}
+
+.news {
+    text-align: center;
+    display: contents;
+    align-items: center;
+    background-image: url(img\10.jpg);
+}
